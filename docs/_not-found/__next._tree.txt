@@ -1,0 +1,4 @@
+:HL["/kooni-browser/_next/static/chunks/1bb9cuj-zgh-m.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"LeW4q3qgySwnNyQ5gl8ve","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
